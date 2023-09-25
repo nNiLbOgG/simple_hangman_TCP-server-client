@@ -1,0 +1,15 @@
+C:\Users\alesk\OneDrive\Plocha\Klient\Klient\bin\Debug\net6.0\Klient.exe
+C:\Users\alesk\OneDrive\Plocha\Klient\Klient\bin\Debug\net6.0\Klient.deps.json
+C:\Users\alesk\OneDrive\Plocha\Klient\Klient\bin\Debug\net6.0\Klient.runtimeconfig.json
+C:\Users\alesk\OneDrive\Plocha\Klient\Klient\bin\Debug\net6.0\Klient.dll
+C:\Users\alesk\OneDrive\Plocha\Klient\Klient\bin\Debug\net6.0\Klient.pdb
+C:\Users\alesk\OneDrive\Plocha\Klient\Klient\obj\Debug\net6.0\Klient.csproj.AssemblyReference.cache
+C:\Users\alesk\OneDrive\Plocha\Klient\Klient\obj\Debug\net6.0\Klient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alesk\OneDrive\Plocha\Klient\Klient\obj\Debug\net6.0\Klient.AssemblyInfoInputs.cache
+C:\Users\alesk\OneDrive\Plocha\Klient\Klient\obj\Debug\net6.0\Klient.AssemblyInfo.cs
+C:\Users\alesk\OneDrive\Plocha\Klient\Klient\obj\Debug\net6.0\Klient.csproj.CoreCompileInputs.cache
+C:\Users\alesk\OneDrive\Plocha\Klient\Klient\obj\Debug\net6.0\Klient.dll
+C:\Users\alesk\OneDrive\Plocha\Klient\Klient\obj\Debug\net6.0\refint\Klient.dll
+C:\Users\alesk\OneDrive\Plocha\Klient\Klient\obj\Debug\net6.0\Klient.pdb
+C:\Users\alesk\OneDrive\Plocha\Klient\Klient\obj\Debug\net6.0\Klient.genruntimeconfig.cache
+C:\Users\alesk\OneDrive\Plocha\Klient\Klient\obj\Debug\net6.0\ref\Klient.dll
